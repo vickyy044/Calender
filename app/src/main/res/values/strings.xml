@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calender</string>
+    <string name="set_date">Set the date</string>
+</resources>
